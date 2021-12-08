@@ -8,7 +8,7 @@ namespace CaixaelEtronicoUp
 {
     public class ContaCorrente
     {
-        public Cliente titular;
+        public Clienteu titular;
         public int numeroAgencia;
         public int numero = 01;
         public double _saldo;
